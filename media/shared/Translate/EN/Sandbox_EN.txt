@@ -1,0 +1,23 @@
+Sandbox_EN = {
+    Sandbox_NightSprinters = "Night XP",
+
+    Sandbox_startSummer = "Start time for Summer",
+    Sandbox_endSummer   = "End time for Summer",
+    Sandbox_startAutumn = "Start time for Autumn",
+    Sandbox_endAutumn   = "End time for Autumn",
+    Sandbox_startWinter = "Start time for Winter",
+    Sandbox_endWinter   = "End time for Winter",
+    Sandbox_startSpring = "Start time for Spring",
+    Sandbox_endSpring   = "End time for Spring",
+
+    Sandbox_startSummer_tooltip = "In military time",
+    Sandbox_endSummer_tooltip   = "In military time",
+    Sandbox_startAutumn_tooltip = "In military time",
+    Sandbox_endAutumn_tooltip   = "In military time",
+    Sandbox_startWinter_tooltip = "In military time",
+    Sandbox_endWinter_tooltip   = "In military time",
+    Sandbox_startSpring_tooltip = "In military time",
+    Sandbox_endSpring_tooltip   = "In military time",
+    
+    Sandbox_multiplier = "Multiplier for XP",
+}

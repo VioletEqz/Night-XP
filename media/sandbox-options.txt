@@ -1,0 +1,55 @@
+VERSION = 1,
+
+option NightXP.startSummer
+{
+	type = integer, min = 0, max = 23, default = 23,
+	page = NightXP, translation = startSummer,
+}
+
+option NightXP.endSummer
+{
+	type = integer, min = 0, max = 23, default = 6,
+	page = NightXP, translation = endSummer,
+}
+
+option NightXP.startAutumn
+{
+	type = integer, min = 0, max = 23, default = 22,
+	page = NightXP, translation = startAutumn,
+}
+
+option NightXP.endAutumn
+{
+	type = integer, min = 0, max = 23, default = 6,
+	page = NightXP, translation = endAutumn,
+}
+
+option NightXP.startWinter
+{
+	type = integer, min = 0, max = 23, default = 20,
+	page = NightXP, translation = startWinter,
+}
+
+option NightXP.endWinter
+{
+	type = integer, min = 0, max = 23, default = 6,
+	page = NightXP, translation = endWinter,
+}
+
+option NightXP.startSpring
+{
+	type = integer, min = 0, max = 23, default = 22,
+	page = NightXP, translation = startSpring,
+}
+
+option NightXP.endSpring
+{
+	type = integer, min = 0, max = 23, default = 6,
+	page = NightXP, translation = endSpring,
+}
+
+option NightXP.multiplier
+{
+	type = boolean, default = false,
+	page = NightXP, translation = multiplier,
+}
